@@ -1,6 +1,6 @@
 # :house_with_garden:	 KSH hostel :house_with_garden:	
 
-Thus is a website where you can search hostels located in Kaohsiung, Taiwan. Moreover, you can register a new account and login to upload your profile picture and change your password.
+This is a website where you can search hostels located in Kaohsiung, Taiwan. Moreover, you can register a new account and login to upload your profile picture and change your password.
 
 Demo here :point_down: <p></p>
 <a href="https://ksh-project-vercel-1.vercel.app/"><img src="https://img.shields.io/badge/link-KSH.hostel-1?style=flat&logoColor=red&labelColor=%237B7B7B&color=%23FFDA6A" alt="KSH.hostel"></a>
