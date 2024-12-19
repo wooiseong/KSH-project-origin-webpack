@@ -29,6 +29,10 @@ You can click on this link to view more pictures :point_right::point_right::poin
 5. Backend&nbsp; (&nbsp;External API&nbsp;)
 6. Deployment&nbsp; (&nbsp;Vercel&nbsp;)
 
+## External API
+ * Hostel - <a href="https://api.kcg.gov.tw/api/service/Get/0696fe30-a7b7-42f7-9458-f4716138109d">Kaohsiung City Government's open data platform</a>
+ * Login and Registration - <a href="https://apifox.com/apidoc/shared-fa9274ac-362e-4905-806b-6135df6aa90e/api-22284011">黑馬程序員 Big Event</a> 
+
 ## Bugs/Future plans
 1. After users log in, the navigation bar default logo should change to users's uploaded profile picture. When the page is refresh, it takes 1-2 seconds to execute the change. The desired effect should be: once users log in, the logo should be replaced and the users' profile pictures are displayed directly.
 
