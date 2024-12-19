@@ -57,3 +57,10 @@ npm run dev
 ```
 
 ### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Contact
+* <a href= "mailto:wooiseongseong96@gmail.com">Email:  &nbsp;wooiseongseong96@gmail.com</a>
