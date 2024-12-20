@@ -26,7 +26,7 @@ You can click on this link to view more pictures :point_right::point_right::poin
 2. Building tool&nbsp; (&nbsp;Webpack&nbsp;) 
 3. Storage&nbsp; (&nbsp;localStorage&nbsp;)
 4. Validation&nbsp; (&nbsp;Bootstrap validator + jQuery validate&nbsp;)
-5. Backend&nbsp; (&nbsp;External API&nbsp;)
+5. Backend&nbsp; (&nbsp;Axios + External API&nbsp;)
 6. Deployment&nbsp; (&nbsp;Vercel&nbsp;)
 
 ## External API
