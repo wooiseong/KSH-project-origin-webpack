@@ -26,8 +26,9 @@ You can click on this link to view more pictures :point_right::point_right::poin
 2. Building tool&nbsp; (&nbsp;Webpack&nbsp;) 
 3. Storage&nbsp; (&nbsp;localStorage&nbsp;)
 4. Validation&nbsp; (&nbsp;Bootstrap validator + jQuery validate&nbsp;)
-5. Backend&nbsp; (&nbsp;Axios + External API&nbsp;)
-6. Deployment&nbsp; (&nbsp;Vercel&nbsp;)
+5. HTTP request&nbsp; (&nbsp;Axios&nbsp;)
+6. Backend&nbsp; (&nbsp;External API&nbsp;)
+7. Deployment&nbsp; (&nbsp;Vercel&nbsp;)
 
 ## External API
  * Hostel - <a href="https://api.kcg.gov.tw/api/service/Get/0696fe30-a7b7-42f7-9458-f4716138109d">Kaohsiung City Government's open data platform</a>
