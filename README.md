@@ -31,7 +31,7 @@ You can click on this link to view more pictures :point_right::point_right::poin
 7. Deployment&nbsp; (&nbsp;Vercel&nbsp;)
 
 ## External API
- * Hostel - <a href="https://api.kcg.gov.tw/api/service/Get/0696fe30-a7b7-42f7-9458-f4716138109d">Kaohsiung City Government's open data platform</a>
+ * Hostel - <a href="https://api.kcg.gov.tw/ServiceList/Detail/0696fe30-a7b7-42f7-9458-f4716138109d#/collapseFour">Kaohsiung City Government's open data platform</a>
  * Login and Registration - <a href="https://apifox.com/apidoc/shared-fa9274ac-362e-4905-806b-6135df6aa90e/api-22284011">黑馬程序員 Big Event</a> 
 
 ## Bugs/Future plans
