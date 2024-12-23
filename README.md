@@ -50,7 +50,7 @@ Please follow the instructions to get a copy of this project.
 git clone https://github.com/wooiseong/KSH-project.git
 ```
 
-### Install pnpm packages
+### Install npm packages
 ```sh
 npm install
 ```
