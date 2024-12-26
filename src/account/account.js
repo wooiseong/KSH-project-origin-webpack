@@ -63,6 +63,9 @@ removeImg.addEventListener('click', () => {
   changeImg.src = ''
   changeImg.classList.add('invisible')
   toastMessage('預覽頭像移除成功', 0)
+  document.addEventListener('hide.bs.toast', () => {
+    location.reload()
+  })
 })
 
 // 2.4 上傳頭像至後臺
@@ -198,5 +201,5 @@ async function updatePassword() {
 
 // 4.1 跳轉至登入頁面
 document.querySelector('.clearToken').addEventListener('click', () => {
-  location.href = 'login.html'
+  location.href = '../login/login.html'
 })
