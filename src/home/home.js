@@ -114,11 +114,12 @@ function renderTable (finalResult, k = 1 ) {
      const listBody = finalResult.map(item => {
      i++
      number++
+     const nameReplacement = item.旅宿名稱.replaceAll('?','')
      if (i <= 5  ){
      return `
      <tr class="list_tr">
      <th scope="row">${number}</th>
-     <td data-title="名稱">${item.旅宿名稱}</td>
+     <td data-title="名稱">${nameReplacement}</td>
      <td data-title="地区">${item.鄉鎮}</td>
      <td data-title="房间">${item.房間數}</td>
      <td>
